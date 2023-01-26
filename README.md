@@ -14,5 +14,5 @@ deno run -A npm:prisma generate --data-prxoxy
 ### After
 
 ```
-deno run -A --unstable npm:prisma generate
+deno run -A --unstable npm:prisma generate --data-proxy
 ```
